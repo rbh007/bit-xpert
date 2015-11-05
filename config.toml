@@ -21,7 +21,7 @@ canonifyurls = true
 	# To provide some metadata for search engines feel free to add a few
         # information about you and your website.
         name = "Bit-Xpert"
-	description = "Bit-Xpert va ofera la preturi negociabile servicii de instalare / inlocuire / diagnosticare / testare componente hardware, recuperari date, devirusari, instalari / configurari software si echipamente periferice, configurari retele, consultanta IT"
+	description = "Indiferent de proiect, la bit-xpert beneficiati de preturi competitive, solutionarea rapida a neclaritatilor, discount substantial la prima interventie."
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
