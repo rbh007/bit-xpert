@@ -1,4 +1,4 @@
-baseurl = "http://rbh007.github.io/bit-xpert/"
+baseurl = "http://www.bit-xpert.net/"
 languageCode = "ro"
 title = "Bit-Xpert"
 theme = "hugo-creative-theme"
