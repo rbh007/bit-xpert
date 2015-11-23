@@ -1,4 +1,4 @@
-baseurl = "http://www.bit-xpert.net/"
+baseurl = "/"
 languageCode = "ro"
 title = "Bit-Xpert"
 theme = "hugo-creative-theme"
