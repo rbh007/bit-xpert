@@ -51,7 +51,7 @@ canonifyurls = true
 	# About section
 	[params.about]
 		headline    = "Probleme cu calculatorul?"
-		description = "Bit-Xpert Va ofera la preturi negociabile servicii de Instalare / Inlocuire / Diagnosticare / Testare componente Hardware , Instalari / Reinstalari / Configurari SO, Recuperari Date, Devirusari, Instalari / Configurari Software si Echipamente Periferice, Configurari Retele, Consultanta IT."
+		description = "Bit-Xpert ofera pe raza orasului Bucuresti la preturi negociabile servicii de Instalare / Inlocuire / Diagnosticare / Testare componente Hardware , Instalari / Reinstalari / Configurari SO, Recuperari Date, Devirusari, Instalari / Configurari Software si Echipamente Periferice, Configurari Retele, Consultanta IT."
 		buttonText  = "Avantaje"
 
 
